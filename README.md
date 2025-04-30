@@ -22,26 +22,19 @@
 <thead>
   <tr>
     <td colspan="3">
-      <p>🎉 25y+ em sistemas comerciais com .NET C#, python, Azure e IA.
+      <p>🎉 Especialista em Infraestrutura e Redes
       <br/>
      🌟 Analista de Infraestrutura  
       <br/>
-    👨‍💻 Foco em AI, Cloud e CloudNative
+    👨‍💻 Foco em projetos de redes e segurança da informação
     </p>
       <a 
-      href="https://www.linkedin.com/in/hsouzaeduardo/" 
+      href="https://www.linkedin.com/in/hsouzaeduardo/](https://www.linkedin.com/in/pedro-mattos-infrastructure-analyst/" 
       align="center">
            <img 
             align="center" 
             alt="Material de Apoio" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/hsouzaeduardo81/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             >
         </a>
     </td>
