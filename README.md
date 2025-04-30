@@ -29,7 +29,7 @@
     👨‍💻 Foco em projetos de redes e segurança da informação
     </p>
       <a 
-      href="https://www.linkedin.com/in/hsouzaeduardo/](https://www.linkedin.com/in/pedro-mattos-infrastructure-analyst/" 
+      href="https://www.linkedin.com/in/pedro-mattos-infrastructure-analyst/" 
       align="center">
            <img 
             align="center" 
