@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Microsoft Application Platform</h1>
+    <h1>Pedro Henrique Gonçalves Mattos</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -21,16 +21,11 @@
 <table align="center">
 <thead>
   <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/hsouzaeduardo">
-        <img src="https://avatars.githubusercontent.com/u/1692867?v=4" alt="@hsouzaeduardo"><br>
-      </a>
-    </td>
+    
     <td colspan="3">
     <p>🎉 25y+ em sistemas comerciais com .NET C#, python, Azure e IA.
       <br/>
-     🌟 Gerente Especialista em Arquitetura e IA 
+     🌟 Analista de Infraestrutura  
       <br/>
     👨‍💻 Foco em AI, Cloud e CloudNative
     </p>
