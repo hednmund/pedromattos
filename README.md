@@ -21,9 +21,8 @@
 <table align="center">
 <thead>
   <tr>
-    
     <td colspan="3">
-    <p>🎉 25y+ em sistemas comerciais com .NET C#, python, Azure e IA.
+      <p>🎉 25y+ em sistemas comerciais com .NET C#, python, Azure e IA.
       <br/>
      🌟 Analista de Infraestrutura  
       <br/>
