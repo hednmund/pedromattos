@@ -46,67 +46,26 @@
 <br/>
 <br/>
 
-## 💻 Sobre o Projeto
-Este bootcamp avançado foi projetado para capacitar desenvolvedores e profissionais de TI com as habilidades práticas necessárias para construir, implantar e gerenciar aplicações modernas utilizando a plataforma Microsoft Azure. O foco está em tecnologias como App Services, Azure Container Apps,  além de conceitos fundamentais de DevOps aplicados ao ecossistema Microsoft.
+## 💻 Sobre mim
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Sou formado em Gestão Comercial pela Unopar e em Tecnologias Educacionais pela Estácio de Sá, atualmente especializado em Compliance na Gestão Pública. Com uma paixão por Infraestrutura e Segurança da Informação, meu foco é aprimorar constantemente minhas habilidades para atuar como Analista de Infraestrutura, Segurança da Informação.
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
-
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
-
-- Azure | Básico
-
-- Git e GitHub | Básico
-
-- Lógica de Programação | Intermediário
-
-- Conhecimentos de Desenvolvimento Web | Intermediário
-
-- Terminal/CLI | Básico
-
-Outros pré-requisitos:
-
-- Desejável experiência com alguma linguagem de programação como C#, JavaScript ou Python.
-
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
-
-- Fundamentos da Plataforma Azure
-
-  - App Services
-
-  - Azure CLI e Portal
-
-  - Armazenamento de dados
-
-- Contêineres e Orquestração
-
-  - Azure Container Apps
-  - Azure Kubernetes Service (AKS)
-  - Deploy de aplicações em contêiner
+Minha trajetória profissional abrange várias áreas cruciais para garantir a eficiência, segurança e otimização de ambientes de TI:
 
 
-- Monitoramento e Performance
-  - Application Insights
-  - Log Analytics
-  - Práticas de Observabilidade
+## 🛠️ Habilidades
 
-- Projeto Final Integrado
-  - Construção de solução end-to-end
-  - Armazenamento em nuvem
-  - Deploy manual 
 
-## 🎯 Objetivos e Resultados Esperados
+Infraestrutura e Cloud: Possuo sólida experiência em administração de Linux, Windows Server e Virtualizadores como VmWare e Hyper-V, automação com Ansible e Shell Script, além de gerenciamento de ambientes em nuvem (OCI e Azure). Tenho conhecimentos avançados em ferramentas de gerenciamento de identidade e acesso (IAM), como Microsoft Entra ID, e em Intune e Microsoft 365. Minhas habilidades em redes incluem configuração de switch L2 e L3, roteamento, protocolos (TCP/IP, HTTP/HTTPS, DNS, DHCP), além de configuração de VPNs e monitoramento com Prometheus, Grafana, PRTG e SolarWinds. Sou proficiente no uso de containers Docker, orquestração com Kubernetes e gerenciamento de clusters com Portainer e Rancher, o que me permite implementar, automatizar e otimizar a infraestrutura para garantir alta disponibilidade e desempenho.
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Segurança da Informação: Tenho amplo conhecimento em hardening de servidores, gestão de vulnerabilidades, administração de firewalls (como pfSense e Fortigate) e monitoramento de eventos por meio de SIEM (Splunk). Também possuo experiência na implementação de padrões de segurança, como a ISO 27001, aplicando práticas robustas para proteger dados e mitigar riscos.
 
-- Criar, configurar e gerenciar aplicações modernas utilizando serviços PaaS e CaaS da Microsoft Azure.
+Gestão de Processos e Projetos: Experiência em mapeamento de processos utilizando BPMN, com aplicação de metodologias de melhoria contínua (Lean Six Sigma, ISO 9001, ISO 20000) e gestão de conhecimento, incluindo a criação de POPs e KBs no ServiceNow. Sou capacitado para realizar o levantamento de requisitos, definir escopo, criar cronogramas e gerenciar financeiramente projetos (Capex/Opex), com conhecimentos em metodologias ágeis como Scrum e Kanban.
 
-- Realizar deploy de aplicações web e APIs utilizando Azure App Services e Container Apps.
+Análise de Dados e Business Intelligence: Tenho experiência em análise de dados e BI, com competências em Python, Pandas, Apache Spark, além de ferramentas como Power BI, Metabase e Streamlit. Realizo modelagem de dados, análises descritivas e testes A/B para fornecer insights que apoiem a tomada de decisões e otimizem operações.
 
-- Monitorar e diagnosticar aplicações usando ferramentas integradas do Azure.
+Programação e Controle de Versão: Possuo habilidades em Python, JavaScript, Git e GitHub.
 
-- Construir uma aplicação completa com backend em contêiner, armazenando dados na nuvem e com observabilidade configurada.
 
 <!--START_SECTION:footer-->
 
